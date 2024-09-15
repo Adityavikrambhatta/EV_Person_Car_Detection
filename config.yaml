@@ -16,7 +16,7 @@ num_workers: 4
 learning_rate: 0.01
 momentum: 0.9
 weight_decay: 0.0005
-num_epochs: 100
+num_epochs: 25
 
 # Image configuration
 # img_size: 640
