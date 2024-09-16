@@ -11,7 +11,7 @@ project_root/
 │   ├── annotations/
 │   │   └── bbox-annotations.json
 │   └── images/
-│          ├── image_000000001.jpg
+|          ├── image_000000001.jpg
 │          ├── image_000000002.jpg
 │          └── ...
 ├── src/
