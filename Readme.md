@@ -11,10 +11,9 @@ project_root/
 │   ├── annotations/
 │   │   └── bbox-annotations.json
 │   └── images/
-|            ├──train
-│               ├── image_000000001.jpg
-│               ├── image_000000002.jpg
-│               └── ...
+│          ├── image_000000001.jpg
+│          ├── image_000000002.jpg
+│          └── ...
 ├── src/
 │   ├── __init__.py
 │   ├── config.py
